@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Thank you for checking out.
+This profile is work in progress, and will soon be updated with my previous projects!
 <!--
 **z-fil/z-fil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
