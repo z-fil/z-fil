@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-Thank you for checking out.
+I'm a student of Quantum Technology at Aalto, FI, and from the discovery of EV3 Mindstorm in secondary school, I never stopped programming.
+After some years (and true lines of code), I attended SAM Trevano, a technical school where I have delved into multiple technologies and conducted several projects, from software development to computer networks.
+One lost GitHub account later, here I am, adding some quantum physics into be world of programming, because...
 
-This profile is work in progress, and will soon be updated with my previous projects!
+*why settle for bugs when you can also add quantum noise into your code?*
+
 
 <!--
 **z-fil/z-fil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
