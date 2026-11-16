@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm a student of Quantum Technology at Aalto, FI, and from the discovery of EV3 Mindstorm in secondary school, I never stopped programming.
+- ☢️ Currently pursuing a master in Nuclear Energy Engineering at KTH, Sweden
+- ⚛️ Completed the Quantum Technology BSc at Aalto, Finland
+- 💻 Coding since high school (Python, Bash, Java, and a few more)
+
+
+<!--I'm a student of Quantum Technology at Aalto, FI, and from the discovery of EV3 Mindstorm in secondary school, I never stopped programming.
 After some years (and true lines of code), I attended SAM Trevano, a technical school where I have delved into multiple technologies and conducted several projects, from software development to computer networks.
 One lost GitHub account later, here I am, adding some quantum physics into be world of programming, because...
 
